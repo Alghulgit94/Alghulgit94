@@ -13,3 +13,6 @@ _Suelo frecuentar_:
 - HTML :pencil2:
 - CSS :triangular_ruler:
 - JS (Growing on it..) :construction:
+
+_Socials_:
+- https://grouplink-omargfv.netlify.app/
