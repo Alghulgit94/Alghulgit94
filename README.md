@@ -1,15 +1,16 @@
 # Hi I'm Omar 👋
 ![](https://mattwerk.co.in/sites/default/files/service_03_native.gif)
 
+## Android & Web Developer from Villarrica - Paraguay.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Current Project: :rocket:
+- Foodvca: App para Pedidos Online (Android JAVA).
+  https://sites.google.com/view/foodvca-politicas-condiciones/acercade
+  
+_Suelo frecuentar_:
+- JAVA
+- Android
+- HTML
+- CSS
+- JS (Growing on it..)
 -->
