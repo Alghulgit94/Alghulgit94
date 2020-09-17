@@ -1,5 +1,5 @@
 # Hi I'm Omar 👋
-![](https://mattwerk.co.in/sites/default/files/service_03_native.gif)
+![](https://github.com/Alghulgit94/Alghulgit94/blob/master/gif%20android.gif)
 
 ## Android & Web Dev from Villarrica - Paraguay. :red_circle::white_circle::large_blue_circle:
 
