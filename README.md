@@ -3,7 +3,7 @@
 
 ## Android & Web Dev from Villarrica - Paraguay. :red_circle::white_circle::large_blue_circle:
 
-Current Project: :rocket: 
+###_Current Project: :rocket:_###
 - Foodvca: App para Pedidos Online (Android JAVA).
   https://sites.google.com/view/foodvca-politicas-condiciones/acercade
   
